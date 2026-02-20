@@ -93,7 +93,6 @@ payload:
   - 'googleads.g.doubleclick.net'
   - 'xpaywalletcdn-prod.azureedge.net'
   - 'static.doubleclick.net'
-  - 'abs.twimg.com'
   - 'video.twimg.com'
   - 'appleid.cdn-apple.com'
   - 'x1.i.lencr.org'
