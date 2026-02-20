@@ -8,6 +8,7 @@ payload:
   - 'play.google.com'
   - 'feedback-pa.clients6.google.com'
   - 'servedbyadbutler.com'
+  - 'content.hpgamestream.com'
   - 'watson.events.data.microsoft.com'
   - 'api.ip.sb'
   - 'www.mcafee.com'
