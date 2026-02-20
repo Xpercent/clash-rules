@@ -58,7 +58,6 @@ payload:
   - 'login.live.com'
   - 'unpkg.com'
   - 'cdn.tailwindcss.com'
-  - 'self.events.data.microsoft.com'
   - 'servedbyadbutler.com'
   - 'content.hpgamestream.com'
   - 'www.msn.cn'
