@@ -7,6 +7,7 @@ payload:
   - 'people-pa.clients6.google.com'
   - 'play.google.com'
   - 'feedback-pa.clients6.google.com'
+  - 'self.events.data.microsoft.com'
   - 'watson.events.data.microsoft.com'
   - 'www.mcafee.com'
   - 'www.youtube.com'
