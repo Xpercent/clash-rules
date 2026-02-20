@@ -44,3 +44,8 @@ payload:
   - 'ss1.baidu.com'
   - 'ss0.baidu.com'
   - 'ss0.bdstatic.com'
+  - 'zh-yue.wikipedia.org'
+  - 'wikipedia.org'
+  - 'sparkcdneus2.azureedge.net'
+  - 'xpercent.dpdns.org'
+  - 'geo.prod.do.dsp.mp.microsoft.com'
