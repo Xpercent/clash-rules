@@ -5,6 +5,7 @@ payload:
   - 'waa-pa.clients6.google.com'
   - 'www.google.com'
   - 'people-pa.clients6.google.com'
+  - 'browser.events.data.msn.cn'
   - 'play.google.com'
   - 'feedback-pa.clients6.google.com'
   - 'watson.events.data.microsoft.com'
