@@ -43,6 +43,7 @@ payload:
   - 'array624.prod.do.dsp.mp.microsoft.com'
   - 'ss1.baidu.com'
   - 'ss0.baidu.com'
+  - 'cdn.jsdelivr.net'
   - 'ss0.bdstatic.com'
   - 'zh-yue.wikipedia.org'
   - 'wikipedia.org'
