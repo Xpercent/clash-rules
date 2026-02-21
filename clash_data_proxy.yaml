@@ -54,6 +54,8 @@ payload:
   - 'zh-yue.wikipedia.org'
   - 'wikipedia.org'
   - 'sparkcdneus2.azureedge.net'
+  - 'browser.events.data.microsoft.com'
+  - 'www.clarity.ms'
   - 'xpercent.dpdns.org'
   - 'geo.prod.do.dsp.mp.microsoft.com'
   - 'clients6.google.com'
