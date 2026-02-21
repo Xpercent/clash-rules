@@ -212,7 +212,6 @@ payload:
   - 'wcpstatic.microsoft.com'
   - 'z.clarity.ms'
   - 'js.monitor.azure.com'
-  - 'browser.events.data.microsoft.com'
   - 'northcentralus-0.in.applicationinsights.azure.com'
   - 'www.clarity.ms'
   - 'scripts.clarity.ms'
