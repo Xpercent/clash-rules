@@ -53,3 +53,5 @@ payload:
   - 'sparkcdneus2.azureedge.net'
   - 'xpercent.dpdns.org'
   - 'geo.prod.do.dsp.mp.microsoft.com'
+  - 'clients6.google.com'
+  - 'content.googleapis.com'
