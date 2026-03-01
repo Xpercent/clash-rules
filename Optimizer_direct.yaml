@@ -19,3 +19,7 @@ payload:
   - 'api16-normal-alisg.mchost.guru'
   - 'api.ipify.org'
   - 'api-ipv4.ip.sb'
+  - 'fastly.jsdelivr.net'
+  - 'pcmon-boot.trae.ai'
+  - 'mon16-normal-sg.trae.ai'
+  - 'www.msftconnecttest.com'
