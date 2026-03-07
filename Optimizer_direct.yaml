@@ -25,3 +25,8 @@ payload:
   - 'fonts.gstatic.font.im'
   - 'sys.th-dd.top'
   - 'api.snapcraft.io'
+  - 'api-ipv4.ip.sb'
+  - 'archive.ubuntu.com'
+  - 'motd.ubuntu.com'
+  - 'contracts.canonical.com'
+  - 'esm.ubuntu.com'
